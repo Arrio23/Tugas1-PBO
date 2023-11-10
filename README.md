@@ -8,7 +8,7 @@
 
 ## Encapsulate Field
 
-Encapsulate Field adalah membungkus atribut ke dalam satu method
+Encapsulate Field adalah membungkus atribut dan method menjadi satu kesatuan
 
 ## Superclass
 
