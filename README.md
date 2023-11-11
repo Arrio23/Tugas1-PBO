@@ -17,3 +17,5 @@ Superclass adalah class induk atau parent dari satu atau lebih subclass
 ## Subclass
 
 Subclass adalah class turunan dari class atasnya yang mengambil semua sifat yang ada di class atasnya
+
+## ![uin](https://github.com/Arrio23/Tugas1-PBO/assets/148852047/0275110b-e464-4508-8c11-1cc1ac78dd8a)
